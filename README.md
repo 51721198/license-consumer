@@ -1,0 +1,2 @@
+# license-consumer
+spring-cloud
